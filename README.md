@@ -33,4 +33,4 @@ image_path = image_path.decode('utf-8')
 ```
 
 *UML Sequence Diagram*
-<img width="306" alt="UML diagram" src="https://github.com/SheyarAgha/cs361-microservice/UML.vpd.jpg">
+<img width="306" alt="UML diagram" src="https://github.com/SheyarAgha/cs361-microservice/blob/main/UML.vpd.jpg">
